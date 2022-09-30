@@ -1,7 +1,7 @@
 {
   "name": "first-interaction-action",
   "version": "1.0.0",
-  "description": "An action for greeting first time contributors.",
+  "description": "A cool action for greeting first time contributors.",
   "main": "lib/main.js",
   "scripts": {
     "build": "tsc",
